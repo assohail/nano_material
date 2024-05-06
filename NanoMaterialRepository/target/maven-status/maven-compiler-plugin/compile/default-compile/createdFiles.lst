@@ -1,0 +1,3 @@
+com\mycompany\nanomaterialrepository\model\user.class
+com\mycompany\nanomaterialrepository\controller\userServlet.class
+com\mycompany\nanomaterialrepository\DAO\userDAO.class
